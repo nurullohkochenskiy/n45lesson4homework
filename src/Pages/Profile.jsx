@@ -73,7 +73,7 @@ export default function Profile() {
                 Username: {user.username}
               </Typography>
               <Typography pt={2} variant="h6">
-                Username: {user.password}
+                Password: {user.password}
               </Typography>
             </Box>
             <Button
